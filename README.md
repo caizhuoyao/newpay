@@ -78,11 +78,11 @@
 对接	通道测试：支付下单测试、条码支付测试
 接口文档：支付API接口文档、代付API接口文档、demo下载（java、php、asp）
   ### 系统截图
-![image](https://github.com/caizhuoyao/pay/blob/main/img/1675237010118.jpg)
-![image](https://github.com/caizhuoyao/pay/blob/main/img/1675237048588.jpg)
-![image](https://github.com/caizhuoyao/pay/blob/main/img/1675237093401.jpg)
-![image](https://github.com/caizhuoyao/pay/blob/main/img/1675237111329.jpg)
-![image](https://github.com/caizhuoyao/pay/blob/main/img/1675237135207.jpg)
-![image](https://github.com/caizhuoyao/pay/blob/main/img/1675237154518.jpg)
-![image](https://github.com/caizhuoyao/pay/blob/main/img/1675237174699.jpg)
-![image](https://github.com/caizhuoyao/pay/blob/main/img/1675237205876.jpg
+![image](https://github.com/caizhuoyao/newpay/blob/main/img/1675237010118.jpg)
+![image](https://github.com/caizhuoyao/newpay/blob/main/img/1675237048588.jpg)
+![image](https://github.com/caizhuoyao/newpay/blob/main/img/1675237093401.jpg)
+![image](https://github.com/caizhuoyao/newpay/blob/main/img/1675237111329.jpg)
+![image](https://github.com/caizhuoyao/newpay/blob/main/img/1675237135207.jpg)
+![image](https://github.com/caizhuoyao/newpay/blob/main/img/1675237154518.jpg)
+![image](https://github.com/caizhuoyao/newpay/blob/main/img/1675237174699.jpg)
+![image](https://github.com/caizhuoyao/newpay/blob/main/img/1675237205876.jpg)
