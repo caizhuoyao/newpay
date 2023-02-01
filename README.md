@@ -1,5 +1,5 @@
 # 有需要购买此支付源码的可以联系telegram：[Cobrapay](https://t.me/Cobrapay)
-
+# 加入TG群聊 互换资源源码 欢迎大家 [派源码](https://t.me/pyuanma)
 该系统使用spring boot + dubbo架构开发。包括运营平台、代理商系统、商户系统、支付系统，结算系统、对账系统等。
 
 ## 功能列表
